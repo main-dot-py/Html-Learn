@@ -1,0 +1,16 @@
+body {
+  background-color: #fefefe;
+}
+
+h1 {
+  color: royalblue;
+}
+#ClickMe {
+  background: transparent;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+#ClickMe img {
+  display: block; /* removes extra space below image */
+}
